@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/assigner.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/common.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/configuration.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/configuration.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/data/ShiftBook.csv" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/envaluator.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/envaluator.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/fits_core.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/globlecontext.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/jobs.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/loader.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/loader.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/machine.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/models.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/mq.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/shiftbook.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/simulator.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/simulator.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/tasks.hpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/voter.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/voter.hpp" charset="GB2312" />
+    <file url="mock:///machine.hpp" charset="UTF-8" />
+  </component>
+</project>

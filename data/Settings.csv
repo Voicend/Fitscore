@@ -1,0 +1,10 @@
+#,host,username,password,routing-key,port
+MQInfo,192.168.1.77,maps,maps,fits.core,5672
+WindowPhase,3,1,0
+fits.machine.coldtime,3600
+fits.core.co.susceptibility,0.9
+fits.core.time-length-of-day,75600
+fits.core.simulator.max-loop-wait-time,50000
+fits.simulator.endless-loop-waitTime,50000
+fits.core.simulator.loop-break-time,600
+fits.simulator.checktime,600
